@@ -2,7 +2,7 @@
      "rewrites": [
         {
             "source": "/((?!_next|api).*)",
-            "destination": "/index.html"
+            "destination": "/designer.html"
         }
     ]
 }
